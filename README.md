@@ -1,0 +1,2 @@
+# Salone
+Beauty Salon Website
